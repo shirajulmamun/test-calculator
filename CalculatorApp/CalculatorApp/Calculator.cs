@@ -23,5 +23,20 @@ namespace CalculatorApp
             return firstNumber - secondNumber;
 
         }
+
+        public void LogFunction()
+        {
+            // detail
+        }
+
+        public void Sin()
+        {
+            // detial
+        }
+
+        public void Cos()
+        {
+            //
+        }
     }
 }
