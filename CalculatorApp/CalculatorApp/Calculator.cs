@@ -20,7 +20,7 @@ namespace CalculatorApp
 
         public int Subtract(int firstNumber, int secondNumber)
         {
-            return firstNumber - lastNumber;
+            return firstNumber - secondNumber;
 
         }
     }
