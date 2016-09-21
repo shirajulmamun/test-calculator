@@ -12,5 +12,9 @@ namespace CalculatorApp
         {
             return firstNumber + secondNumber;
         }
+        public int Subtract(int firstNumber, int secondNumber)
+        {
+            return firstNumber - lastNumber;
+        }
     }
 }

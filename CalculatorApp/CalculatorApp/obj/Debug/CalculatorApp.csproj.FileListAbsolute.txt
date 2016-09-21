@@ -1,1 +1,2 @@
 D:\Calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Bdjobs\Source\Repos\test-calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
